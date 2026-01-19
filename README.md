@@ -9,6 +9,18 @@ An interactive Power BI dashboard analyzing pizza restaurant sales data, providi
 
 ---
 
+## Dashboard Preview
+
+### Home Page
+![Superstore Sales Dashboard](Pizza%20Sales%201.png)
+
+
+### Best/Worst Sellers Page
+![Superstore Sales Dashboard](Pizza%20Sales%202.png)
+
+
+---
+
 ## 🎯 Key Features
 
 ### 💰 Sales Performance Tracking
@@ -71,10 +83,8 @@ An interactive Power BI dashboard analyzing pizza restaurant sales data, providi
 ## 📊 Dashboard Pages
 
 1. **Executive Summary** - High-level KPIs and overview
-2. **Sales Analysis** - Detailed revenue and sales metrics
-3. **Product Performance** - Pizza-wise analysis
-4. **Time Analysis** - Peak hours and trends
-5. **Customer Insights** - Ordering behavior patterns
+2. **Sellers Analysis** - Detailed revenue and sales metrics 
+
 
 ## 📈 Key Metrics & KPIs
 
