@@ -12,11 +12,11 @@ An interactive Power BI dashboard analyzing pizza restaurant sales data, providi
 ## Dashboard Preview
 
 ### Home Page
-![Superstore Sales Dashboard](Pizza%20Sales%201.png)
+![Pizza Sales Dashboard](Pizza%20Sales%201.png)
 
 
 ### Best/Worst Sellers Page
-![Superstore Sales Dashboard](Pizza%20Sales%202.png)
+![Pizza Sales Dashboard](Pizza%20Sales%202.png)
 
 
 ---
